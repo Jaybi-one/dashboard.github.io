@@ -22,8 +22,8 @@
       ],
       datasets: [{
         data: [
-          'altura',
-          'ancho',
+          '.altura',
+          '.ancho',
           18483,
           24003,
           23489,
